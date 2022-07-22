@@ -1,0 +1,39 @@
+[
+    {
+      "email": "@alex22",
+      "name": "Alexander",
+      "country": "Brazil",
+      "lastname":"willson",
+      "number": "999-3467"
+    },
+    {
+      "email": "@marcus66",
+      "name": "Marcus",
+      "country": "Uk",
+      "lastname":"smith",
+      "number": "999-3467"
+    },
+    {
+      "email": "@liam11",
+      "name": "Liam",
+      "country": "France",
+      "lastname":"jonathan",
+      "number": "999-3467"
+    },
+    {
+      "email": "@emma95",
+      "name": "Emma",
+      "country": "Germany",
+      "lastname":"willson",
+      "number": "999-3467"
+
+    },
+    {
+     
+      "email": "@oliver24",
+      "name": "Oliver",
+      "country": "Uk",
+      "lastname":"willson",
+      "number": "999-3467"
+    }
+]
