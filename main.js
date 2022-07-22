@@ -52,7 +52,7 @@ function addContact() {
     console.log("email not found");
   } else {
     tryagain(index);
-    console.log("hooo");
+  
 
     l = g;
   }
@@ -151,6 +151,6 @@ function tryagain(a) {
     console.log(index);
     console.log("email found at position" + " " + index);
   }
-  console.log("wee");
+ 
   return g;
 }
